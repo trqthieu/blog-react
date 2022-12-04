@@ -1,0 +1,10 @@
+.icon_wrapper{
+    display: flex;
+
+}
+.icon_wrapper .icon{
+   margin: 0 10px;
+
+    display: flex;
+    align-items: center;
+}

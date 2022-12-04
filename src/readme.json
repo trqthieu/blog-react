@@ -1,0 +1,12 @@
+{
+  "iss(pin)": "https://accounts.google.com",
+  "aud(pin)": "236587664288-bn3tjh3p1m570ah8hs19fte9t5avod9e.apps.googleusercontent.com",
+  "sub(pin)": "102307915803317491305",
+  "email(pin)": "thieutb28@gmail.com",
+  "email_verified(pin)": true,
+  "azp(pin)": "236587664288-bn3tjh3p1m570ah8hs19fte9t5avod9e.apps.googleusercontent.com",
+  "name(pin)": "Thieu Tran",
+  "picture(pin)": "https://lh3.googleusercontent.com/a/ALm5wu0nrJGfbY2FMJV2R0CxBa6AksIhbRBfQsZg5Uhh=s96-c",
+  "given_name(pin)": "Thieu",
+  "family_name(pin)": "Tran"
+}
